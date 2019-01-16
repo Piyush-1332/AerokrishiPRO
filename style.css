@@ -866,3 +866,6 @@ h2 {
   transition: .5s;
   transform:scale(1.1);
 }
+.log{
+  height: 270px;
+}
